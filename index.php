@@ -1,4 +1,4 @@
-<?php
+<?php 
 include 'connect.php';
 ?>
 <!DOCTYPE html>
@@ -6,7 +6,7 @@ include 'connect.php';
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="css/style.css" />
-        <title></title>
+        <title>Main</title>
     </head>
     <body>
         <div id="wrap">
